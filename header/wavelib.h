@@ -6,6 +6,8 @@ extern "C" {
 #endif
 
 // add some thing
+// add some thing
+
 
 #if defined(_MSC_VER)
 #pragma warning(disable : 4200)
